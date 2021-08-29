@@ -80,7 +80,8 @@ hr {
 background: linear-gradient(
   rgba(186, 214, 25, 0.3), 
   rgba(82, 173, 8, 0.3)
-), url('../images/bg1-mob.png') no-repeat ;
+), url('../images/bg1-mob.png')  ;
+width: auto;
   	z-index: auto !important;
   	padding: 30px 0 160px 0;
   	text-align: center;
@@ -413,7 +414,7 @@ li.margen-button, a:hover , a:focus{
 background: linear-gradient(
   rgba(34, 34, 34, 0.3), 
   rgba(34, 34, 34, 0.5)
-), url('../images/bg1-mob.png') no-repeat ;
+), url('../images/bg1-mob.png')  ;
 
  }
  .copy {
